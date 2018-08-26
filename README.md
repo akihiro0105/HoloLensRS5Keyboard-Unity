@@ -49,7 +49,7 @@ UnityからはTouchScreenKeyboardから利用が可能になります．
 - AirTapでキーボードが起動
 
 ![20180826_184448_HoloLens.jpg](20180826_184448_HoloLens.jpg)
-[](http://link)
+[https://youtu.be/xFxZPZZ41mQ](https://youtu.be/xFxZPZZ41mQ)
 
 ## 参考資料
 - UnityのTouchScreenKeyboardのページ [https://docs.unity3d.com/ja/current/ScriptReference/TouchScreenKeyboard.html](https://docs.unity3d.com/ja/current/ScriptReference/TouchScreenKeyboard.html)
