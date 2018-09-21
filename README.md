@@ -18,6 +18,7 @@ HoloLens RS4まではUnity内でソフトウェアキーボードを利用する
 - UWPビルドのBuild TypeをXAML形式に変更してXAML2Dパネルから入力を行う   
     + [http://littlewing.hatenablog.com/entry/2017/03/03/164645](http://littlewing.hatenablog.com/entry/2017/03/03/164645)
 - 自前で実装を行う
+    + 気合
 
 しかし
 - 予測変換させたい
@@ -29,7 +30,7 @@ HoloLens RS4まではUnity内でソフトウェアキーボードを利用する
 など要望が出てきます．
 
 HoloLensの次期バージョンアップ，RS5では3D空間でもソフトウェアキーボードが表示されるようになりました．
-またHoloLens RS5から対応言語に日本語と中国が追加され，日本語IME，音声認識が利用できるようにもなっています．
+またHoloLens RS5から対応言語に日本語と中国語が追加され，日本語IME，音声認識が利用できるようにもなっています．
 UnityからはTouchScreenKeyboardから利用が可能になります．
 
 ## Unity設定
